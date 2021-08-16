@@ -1,0 +1,19 @@
+
+.top{
+height:80px;
+display:flex;
+justify-content:space-between;
+background-color: white;
+    
+}
+.navbar{
+    padding:10px;
+    padding-top:30px;
+    padding-right:70px;
+    
+}
+.head{
+    margin-left:300px;
+    padding-top:30px;
+}
+

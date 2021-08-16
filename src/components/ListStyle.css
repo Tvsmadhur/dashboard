@@ -1,0 +1,21 @@
+.xyz{
+    margin-left:800px;
+    position:relative;
+    top:-1400px;
+    width:450px;
+    height:300px;
+    border:1px solid black;
+    
+}
+.apple{
+    border-bottom-style: groove;
+    border-bottom-width: 1px;
+    border-bottom-color:black;
+    
+  }
+  .banana{
+    border-bottom-style: groove;
+    border-bottom-width: thin;
+    border-bottom-color:black;
+    
+  }
